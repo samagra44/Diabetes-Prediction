@@ -62,6 +62,11 @@ The prediction model is trained using a decision tree classifier. It analyzes th
 - Streamlit
 - NumPy
 - Scikit-learn
+## Output
+
+<p align="center">
+<img src="https://github.com/samagra44/Diabetes-Prediction/assets/77968722/fc8d320f-ae66-4b58-b293-a4f3e0df2c81" width=700 height=300 alt="animated"/>
+</p>
 
 ## Installation
 
